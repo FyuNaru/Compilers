@@ -1,0 +1,19 @@
+while(value != 10){
+	int num = 5;
+	num++;
+	if( num >= 5){
+		break;
+	/*this is a comment*/
+	}
+	else if(num < 4){
+		continue;
+	}
+	else{
+		bool s = ((3.5E-2 == 0.035) && (10 == 2*5));
+	}
+	char a = 'a';
+	int b = 0123;
+	int c = 0x123;
+	string = "abc123";
+}
+return 0;
